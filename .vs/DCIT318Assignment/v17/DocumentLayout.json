@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GALLY sismondi\\source\\repos\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4140DD7B-62D8-4ED1-AD88-62DC450861AE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gally sismondi\\source\\repos\\assignment1\\consoleapp1\\triangletypeidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4140DD7B-62D8-4ED1-AD88-62DC450861AE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\triangletypeidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4140DD7B-62D8-4ED1-AD88-62DC450861AE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gally sismondi\\source\\repos\\assignment1\\consoleapp1\\ticketpricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4140DD7B-62D8-4ED1-AD88-62DC450861AE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ticketpricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4140DD7B-62D8-4ED1-AD88-62DC450861AE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gally sismondi\\source\\repos\\assignment1\\consoleapp1\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4140DD7B-62D8-4ED1-AD88-62DC450861AE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4140DD7B-62D8-4ED1-AD88-62DC450861AE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gally sismondi\\source\\repos\\assignment1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4140DD7B-62D8-4ED1-AD88-62DC450861AE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TriangleTypeIdentifier.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\Assignment1\\ConsoleApp1\\TriangleTypeIdentifier.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TriangleTypeIdentifier.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\Assignment1\\ConsoleApp1\\TriangleTypeIdentifier.cs",
+              "RelativeToolTip": "ConsoleApp1\\TriangleTypeIdentifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:43:29.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketPriceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\Assignment1\\ConsoleApp1\\TicketPriceCalculator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TicketPriceCalculator.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\Assignment1\\ConsoleApp1\\TicketPriceCalculator.cs",
+              "RelativeToolTip": "ConsoleApp1\\TicketPriceCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:42:37.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\Assignment1\\ConsoleApp1\\GradeCalculator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GradeCalculator.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\Assignment1\\ConsoleApp1\\GradeCalculator.cs",
+              "RelativeToolTip": "ConsoleApp1\\GradeCalculator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:40:49.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\Assignment1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\Assignment1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:13:02.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
